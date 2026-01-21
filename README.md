@@ -1,7 +1,4 @@
-**Name:** Naman Singh 
-**Roll No:** 102317144
-
-## About the Assignment
+## About this Assignment
 
 So this assignment was about dealing with imbalanced datasets. You know how sometimes you have way more data for one class than another? That was the case here with credit card fraud data.
 
